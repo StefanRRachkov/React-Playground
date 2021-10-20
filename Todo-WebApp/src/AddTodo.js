@@ -11,7 +11,6 @@ class AddTodo extends Component {
         this.setState({
             content: ''
         })
-        e.target.reset();
     }
     handleChange = (e) => {
         this.setState({
