@@ -1,13 +1,15 @@
-# React-Playground
+# Todo WebApp
  
-Here I will upload my side projects that I will make using the React Framework. Other resources that I will be using will be: 
+Here is the absolute begginer "Hello world" program with ReactJS
 
-| Link | Used for |
-|:---:|:---:|
-| https://materializecss.com/getting-started.html | CSS direct reference | 
-| https://material.io/ | UI Design Principles |
-| https://nodejs.org/en/ | Backend/Server reference |
+## Description
 
-### How to use:
-The projects will contain only public and src folders which can be used in your own projects or just for a reference. And for the most part the readme of every single upload will dive deeper
+This is a simple todo list application. You can add and remove elements from the list.
 
+![photo_2021-10-20_17-58-18](https://user-images.githubusercontent.com/25185815/138126624-6a49b915-62e5-4d59-bab4-fa1248f25668.jpg)
+
+## Architecture
+
+![image](https://user-images.githubusercontent.com/25185815/138127337-6cbf43ec-688d-40ff-91ae-62692e0ac160.png)
+
+The App is constructed by three components - two containers and one UI component (stateless component). The diagram shows the relationship between the different methods.
